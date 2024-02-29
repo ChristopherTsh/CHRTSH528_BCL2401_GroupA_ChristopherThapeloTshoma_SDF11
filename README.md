@@ -15,11 +15,11 @@
 
 ## Technologies Used
 
--HTML5: We use it to structure the content of our landing page.
--CSS3: It’s responsible for styling and layout design, including the clever use of Flexbox and CSS Grid.
--JavaScript: We’ve implemented it for interactivity, including form validation and smooth animations.
--Accessibility (ARIA): We’ve made sure to enhance accessibility for users with disabilities.
--Responsive Design: Our goal was to ensure an optimal viewing experience across various devices
+- HTML5: We use it to structure the content of our landing page.
+- CSS3: It’s responsible for styling and layout design, including the clever use of Flexbox and CSS Grid.
+- JavaScript: We’ve implemented it for interactivity, including form validation and smooth animations.
+- Accessibility (ARIA): We’ve made sure to enhance accessibility for users with disabilities.
+- Responsive Design: Our goal was to ensure an optimal viewing experience across various devices
 
 ## Getting Started
 
