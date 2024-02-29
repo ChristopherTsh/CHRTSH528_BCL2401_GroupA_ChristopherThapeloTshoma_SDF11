@@ -28,5 +28,5 @@ Open the index.html file in a web browser.
 
 ## Links 
 [Loom] 
-[slide-presentation] https://docs.google.com/presentation/d/1MtZW9YtXzlGNMnk_qe8OygE5ihnYy9gz/edit?usp=sharing&ouid=115784992208338752277&rtpof=true&sd=true
+[slide-presentation](https://docs.google.com/presentation/d/1MtZW9YtXzlGNMnk_qe8OygE5ihnYy9gz/edit?usp=sharing&ouid=115784992208338752277&rtpof=true&sd=true)
 
