@@ -23,10 +23,10 @@
 
 ## Getting Started
 
-Clone this repository to your local machine.
-Open the index.html file in a web browser.
+- Clone this repository to your local machine.
+- Open the index.html file in a web browser.
 
 ## Links 
-- [Loom] 
+- [Loom](https://www.loom.com/share/c9dd0ef0d08c446690f5a8b5b06776d1?sid=fdf34ec0-00ff-4032-a5f5-62803516b672)
 - [slide-presentation](https://docs.google.com/presentation/d/1MtZW9YtXzlGNMnk_qe8OygE5ihnYy9gz/edit?usp=sharing&ouid=115784992208338752277&rtpof=true&sd=true)
 
